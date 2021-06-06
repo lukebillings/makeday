@@ -1,3 +1,21 @@
 @import url("components/banner.css");
 @import url("components/sense.css");
 @import url("components/faqs.css");
+
+h2 {
+  font-size: 48px;
+}
+
+h5 {
+  font-size: 24px;
+}
+
+
+h6 {
+  font-size: 20px;
+}
+
+
+p {
+  font-size:  16px;
+}
