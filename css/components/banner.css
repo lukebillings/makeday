@@ -1,4 +1,35 @@
 .banner {
   background-color: black;
   color: #F1E9DB;
+
+}
+
+#rectangle {
+  fixed-width: 345px;
+  height:30px;
+  background: #00D2FF;
+}
+
+
+.intro {
+  max-width: 523px;
+  padding-top: 150px;
+  padding-left: 84px;
+  padding-right: 84px;
+}
+
+.intro h6 {
+  font-weight: 400;
+}
+
+
+.banner-btn {
+  border-radius: 6px;
+  background-color: #F1E9DB ;
+  font-size: 16px;
+  color: black;
+  padding: 12px 32px;
+  font-family: 'Inter', sans-serif;
+  border-style: none;
+  margin-bottom: 177px;
 }
